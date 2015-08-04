@@ -1,0 +1,32 @@
+# Frequency response of DX SKU 307797 (ultrasound boost transformer)
+# First column frequency in kHz, second column secondary coil voltage
+# in mV. Primary is driven by 1V peak-to-peak sine wave.
+# Measurements conducted with Keysight DSO-X 3014A oscilloscope and
+# WaveGen. 
+# Joe Desbonnet, jdesbonnet@gmail.com, 4 Aug 2015.
+40 590
+60 875
+100 1542
+140 2426
+170 3375
+200 4710
+220 5961
+250 8100
+260 8677
+270 8909
+280 8915
+290 8799
+300 8300
+320 7216
+340 6150
+360 5350
+380 4700
+460 3182
+580 2184
+660 1818
+800 1409
+1000 1083
+1500 691
+2000 493
+3000 298
+
