@@ -1,2 +1,3 @@
 # DX
-Documentation on various parts available on DealExtreme (dx.com)
+
+Documentation on various parts and products available from DealExtreme (dx.com)
